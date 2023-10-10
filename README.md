@@ -8,9 +8,9 @@ This is a solution to the [Frontend Mentor QR Code Component Solution](https://w
 - [Author](#author)
 ## Overview
 Desktop View  
-![](./desktop_preview.png)
+![](./screenshot.png)
 Mobile view  
-![](./mobile_preview.png = 375x667)
+![](./screenshotmobileview.png)
 ## Links
 **Frontend Mentor QR Code Component Problem LInk:** [https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)  
 **Github Solution LInk:** [https://github.com/AkramGalib/Frontend_Mentor_Qrcode_Solution.git](https://github.com/AkramGalib/Frontend_Mentor_Qrcode_Solution.git)  
