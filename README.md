@@ -10,7 +10,7 @@ This is a solution to the [Frontend Mentor QR Code Component Solution](https://w
 Desktop View  
 ![](./screenshot.png)
 Mobile view  
-![](./screenshotmobileview.png)
+![](./screenshot_mobileview.png)
 ## Links
 **Frontend Mentor QR Code Component Problem LInk:** [https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)  
 **Github Solution LInk:** [https://github.com/AkramGalib/Frontend_Mentor_Qrcode_Solution.git](https://github.com/AkramGalib/Frontend_Mentor_Qrcode_Solution.git)  
